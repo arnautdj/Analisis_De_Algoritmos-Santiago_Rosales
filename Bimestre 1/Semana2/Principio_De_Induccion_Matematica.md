@@ -12,22 +12,20 @@ La **inducción matemática** es una técnica de demostración lógica para afir
 
 Demostrar que:
 
-\[
-1 + 2 + 3 + \dots + n = \frac{n(n+1)}{2}
-\]
+1 + 2 + 3 + ... + n = n(n+1)/2
 
 - **Caso base (n=1)**:
-  \[
-  1 = \frac{1(1+1)}{2} = 1
-  \]
-- **Hipótesis (n=k)**:
-  \[
-  1 + 2 + 3 + \dots + k = \frac{k(k+1)}{2}
-  \]
+
+  1 = (1 × (1+1)) / 2 = 1
+
+- **Hipótesis de inducción (n=k)**:
+
+  1 + 2 + 3 + ... + k = k(k+1)/2
+
 - **Paso inductivo (n=k+1)**:
-  \[
-  (1 + 2 + 3 + \dots + k) + (k+1) = \frac{(k+1)(k+2)}{2}
-  \]
+
+  (1 + 2 + 3 + ... + k) + (k+1) = (k+1)(k+2)/2
+
 
 ---
 
