@@ -1,9 +1,9 @@
-## Algoritmo Merge
+# Taller 1 - Algoritmo Merge
 
 El algoritmo **Merge** es una parte fundamental del método de ordenamiento **Merge Sort**.  
 Su propósito es **fusionar** dos subarreglos ordenados en un único arreglo ordenado.
 
-### Funcionamiento general
+## Funcionamiento general
 
 1. **División**: Se crean dos arreglos auxiliares:
     - `L[0..nL-1]` que contiene los elementos de `A[p..q]`.
